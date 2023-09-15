@@ -1,4 +1,4 @@
-package mx.com.test.uag.socket;
+package mx.com.test.uag.udp.socket;
 
 import java.net.*;
 import java.io.*;
